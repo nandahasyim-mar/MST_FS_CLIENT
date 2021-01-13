@@ -1,0 +1,13 @@
+.code {
+  border-bottom: 1px solid gray;
+  border-right: 1px solid gray;
+  margin-bottom: 1rem;
+}
+
+.row .col-sm {
+  float: left;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 1rem .75rem;
+  min-height: 1px;
+}
